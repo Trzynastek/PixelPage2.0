@@ -12,5 +12,6 @@
 3. Press "Install Add-on From File...".
 4. Select the PixelPage-2.x.x.xpi file.
 
-This project includes portions of Lucide, which is licensed under the ISC License.
-See the [LICENSE](./LICENSE) for details.
+
+> This project includes portions of Lucide, which is licensed under the ISC License. \
+> See the [LICENSE](./LICENSE) for details.
