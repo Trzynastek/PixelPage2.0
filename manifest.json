@@ -1,0 +1,25 @@
+{
+	"manifest_version": 2,
+	"name": "PixelPage",
+	"version": "2.0.7",
+
+	"description": "Minimal homepage",
+
+	"icons": {
+		"48": "icon.svg"
+	},
+
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "PixelPage@trzynu"
+		}
+	},
+
+	"permissions": ["storage"],
+
+	"chrome_url_overrides": {
+		"newtab": "app.html"
+	},
+	"web_accessible_resources": ["lucide.js", "app.js", "defaults.js"],
+	"content_security_policy": "script-src 'self'; object-src 'self'; "
+}
