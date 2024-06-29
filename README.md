@@ -7,6 +7,13 @@
 
 ## Installing
 
+### Automatic
+
+After downloading the PixelPage-2.x.x.xpi file from the latest release, a dialog box asking to install an add-on should pop up. If it does, just confirm the installation. 
+If the dialog box does not appear, use the manual method.
+
+### Manual
+
 1. Go to `about:addons`.
 2. Press the settings button in the top right.
 3. Press "Install Add-on From File...".
